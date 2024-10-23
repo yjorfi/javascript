@@ -1,5 +1,5 @@
 let budget = 100;
-let product = 60;
+let product = prompt();
 
 if(product < budget){
 console.log('U heeft genoeg geld')
